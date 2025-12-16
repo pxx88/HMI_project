@@ -1,5 +1,6 @@
 # HMI_project
-25' DSHB capstone project 
+2025 DSHB capstone project 
+Project by : Sadaf Nasir, Peixuan Xu, and Kyoheon Hwang
 
 ## Kayden's part
 
@@ -26,3 +27,10 @@
 (file: reg_model_prepost_Ancova.ipynb)
 - main research objective
 - KNN, Rnadom Forest, and MLP modeling for prediction of post intervention mental wellbeing
+
+## 000 part
+
+
+## 000 part
+
+
